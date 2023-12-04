@@ -1,0 +1,5 @@
+easyocr
+image_processing
+streamlit
+pyngrok
+streamlit_option_menu
