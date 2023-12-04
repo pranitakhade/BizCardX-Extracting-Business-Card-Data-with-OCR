@@ -4,8 +4,6 @@
 | --- | --- |
 | Technologies | OCR,streamlit GUI, SQL,Data Extraction |
 
-![Capture](https://github.com/pranitakhade/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142147093/343f51cf-f964-4b0e-bbae-f79fda5b49cd)
-
 ### Problem Statement:
 You have been tasked with developing a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information should include the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code. The extracted information should then be displayed in the application's graphical user interface (GUI). 
 
@@ -15,8 +13,6 @@ To achieve this, you will need to use Python, Streamlit, easyOCR, and a database
 
 This project will require skills in image processing, OCR, GUI development, and database management. It will also require you to carefully design and plan the application architecture to ensure that it is scalable, maintainable, and extensible. Good documentation and code organization will also be important for this project.
 
-![Capture1](https://github.com/pranitakhade/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142147093/227d644f-1d4f-4526-a156-32efc51f230e)
-
 ### Approach:
 1. Install the required packages: You will need to install Python, Streamlit, easyOCR, and a database management system like SQLite or MySQL.
 2. Design the user interface: Create a simple and intuitive user interface using Streamlit that guides users through the process of uploading the business card image and extracting its information. You can use widgets like file uploader, buttons, and text boxes to make the interface more interactive.
@@ -25,6 +21,8 @@ This project will require skills in image processing, OCR, GUI development, and 
 5. Implement database integration: Use a database management system like SQLite or MySQL to store the extracted information along with the uploaded business card image. You can use SQL queries to create tables, insert data, and retrieve data from the database, Update the data and Allow the user to delete the data through the streamlit UI
 6. Test the application: Test the application thoroughly to ensure that it works as expected. You can run the application on your local machine by running the command streamlit run app.py in the terminal, where app.py is the name of your Streamlit application file.
 7. Improve the application: Continuously improve the application by adding new features, optimizing the code, and fixing bugs. You can also add user authentication and authorization to make the application more secure.
+
+![Capture](https://github.com/pranitakhade/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142147093/343f51cf-f964-4b0e-bbae-f79fda5b49cd)
 
 ### Results:
 The result of the project would be a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information would include the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code. The extracted information would then be displayed in the application's graphical user interface (GUI).
