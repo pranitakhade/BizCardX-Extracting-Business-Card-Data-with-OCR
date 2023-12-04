@@ -4,6 +4,8 @@
 | --- | --- |
 | Technologies | OCR,streamlit GUI, SQL,Data Extraction |
 
+![Capture](https://github.com/pranitakhade/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142147093/343f51cf-f964-4b0e-bbae-f79fda5b49cd)
+
 ### Problem Statement:
 You have been tasked with developing a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information should include the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code. The extracted information should then be displayed in the application's graphical user interface (GUI). 
 
