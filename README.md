@@ -15,6 +15,8 @@ To achieve this, you will need to use Python, Streamlit, easyOCR, and a database
 
 This project will require skills in image processing, OCR, GUI development, and database management. It will also require you to carefully design and plan the application architecture to ensure that it is scalable, maintainable, and extensible. Good documentation and code organization will also be important for this project.
 
+![Capture1](https://github.com/pranitakhade/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/142147093/227d644f-1d4f-4526-a156-32efc51f230e)
+
 ### Approach:
 1. Install the required packages: You will need to install Python, Streamlit, easyOCR, and a database management system like SQLite or MySQL.
 2. Design the user interface: Create a simple and intuitive user interface using Streamlit that guides users through the process of uploading the business card image and extracting its information. You can use widgets like file uploader, buttons, and text boxes to make the interface more interactive.
